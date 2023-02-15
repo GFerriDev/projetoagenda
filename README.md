@@ -5,3 +5,5 @@ Projeto de agenda com Express
 -Não contém vinculação com banco de dados, apenas com o cache do navegador.
 -Adaptado para todos os principais navegadores da WEB.
 -Criar e alterar o .ENV com as informações indivuduais de quem for consumir
+
+-banco de dados integrado ao MongoDB
